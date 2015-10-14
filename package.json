@@ -1,0 +1,24 @@
+{
+    "name": "stickerstory",
+    "version": "1.0.0",
+    "description": "stickerstory - site for sharing storys about stickers on your stuff",
+    "main": "index.js",
+    "dependencies": {
+        "reset.css": "^2.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/afterdesign/stickerstory.git"
+    },
+    "keywords": [],
+    "author": "Rafał 'after.design' Malinowski",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/afterdesign/stickerstory/issues"
+        },
+        "homepage": "https://github.com/afterdesign/stickerstory#readme"
+    }
